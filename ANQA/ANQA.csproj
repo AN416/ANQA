@@ -9,6 +9,15 @@
     <Description>Quality Assurance Package ensures flawless software , robust testing</Description>
     <PackageTags>AN ANQA Quality Assurance Test Testing </PackageTags>
     <PackAsTool>True</PackAsTool>
+    <PackageProjectUrl>https://github.com/AN416/ANQA</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AN416/ANQA</RepositoryUrl>
+    <PackageReleaseNotes>Quality Assurance Package ensures flawless software , robust testing</PackageReleaseNotes>
+    <FileVersion>1.0</FileVersion>
+    <AssemblyVersion>1.0</AssemblyVersion>
+    <Product>ANQA</Product>
+    <Company>Ayman Alhazmi</Company>
+    <Version>1.0.0</Version>
+    <PackageId>ANQA</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
