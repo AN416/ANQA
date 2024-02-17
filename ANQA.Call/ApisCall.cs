@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using RestSharp;
 
-namespace ANQA.Call
+namespace ANQA.ApiHelper.ApisCall
 {
     public class ApisCall
     {

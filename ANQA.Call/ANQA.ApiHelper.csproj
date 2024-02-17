@@ -1,9 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>ANQA.ApiHelper</Title>
+    <Authors>Ayman Alhazmi</Authors>
+    <Description>Simplify ANQA integration and streamline call-related functionalities with our API Helpers. Effortlessly manage calls, handle errors seamlessly, and speed up development.
+</Description>
+    <PackageProjectUrl>https://github.com/AN416/ANQA</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AN416/ANQA</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>AN ANQA Quality Assurance Test Api </PackageTags>
+    <AssemblyVersion>1.0</AssemblyVersion>
+    <FileVersion>1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
