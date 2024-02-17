@@ -17,7 +17,12 @@
     <Product>ANQA</Product>
     <Company>Ayman Alhazmi</Company>
     <Version>1.0.0</Version>
-    <PackageId>ANQA</PackageId>
+    <PackageId>ANQA.Read</PackageId>
+    <IncludeSymbols>False</IncludeSymbols>
+    <SymbolPackageFormat>symbols.nupkg</SymbolPackageFormat>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
